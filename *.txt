@@ -1,0 +1,3 @@
+-go to this replit program and fork the project
+-read the README.txt file to understand how to convert
+-https://replit.com/@thedeathreview6/png-to-PNG-converter?v=1#main.sh
